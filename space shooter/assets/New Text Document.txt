@@ -1,0 +1,2 @@
+self.main_laser_sound = pygame.mixer.Sound('../assets/main laser.wav')
+self.enemy_laser_sound = pygame.mixer.Sound('../assets/enemy laser.wav')
